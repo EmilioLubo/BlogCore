@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\bin\Debug\net7.0\BlogCoreUtilities.deps.json
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\bin\Debug\net7.0\BlogCoreUtilities.dll
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\bin\Debug\net7.0\BlogCoreUtilities.pdb
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.dll
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\refint\BlogCoreUtilities.dll
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\BlogCoreUtilities.pdb
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreUtilities\obj\Debug\net7.0\ref\BlogCoreUtilities.dll

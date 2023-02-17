@@ -1214,6 +1214,26 @@
             "rid": "win"
           }
         }
+      },
+      "BlogCoreModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BlogCoreModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogCoreModels.dll": {}
+        }
+      },
+      "BlogCoreUtilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BlogCoreUtilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogCoreUtilities.dll": {}
+        }
       }
     }
   },
@@ -3625,10 +3645,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BlogCoreModels/1.0.0": {
+      "type": "project",
+      "path": "../BlogCoreModels/BlogCoreModels.csproj",
+      "msbuildProject": "../BlogCoreModels/BlogCoreModels.csproj"
+    },
+    "BlogCoreUtilities/1.0.0": {
+      "type": "project",
+      "path": "../BlogCoreUtilities/BlogCoreUtilities.csproj",
+      "msbuildProject": "../BlogCoreUtilities/BlogCoreUtilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "BlogCoreModels >= 1.0.0",
+      "BlogCoreUtilities >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3",
@@ -3666,7 +3698,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCoreModels\\BlogCoreModels.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCoreModels\\BlogCoreModels.csproj"
+            },
+            "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCoreUtilities\\BlogCoreUtilities.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCoreUtilities\\BlogCoreUtilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
