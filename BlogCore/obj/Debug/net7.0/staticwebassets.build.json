@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tmSeQQFFAvmw/mT5Wenksps9b/9rp3vb6HHsTLr4dAo=",
+  "Hash": "bvIKYVppVdDq3BLr75BGnsPiWHh9263V0qbAZA8Ckrc=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
