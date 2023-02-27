@@ -15,10 +15,12 @@ namespace BlogCore.DB.Data.Repository
         public WorkContainer(ApplicationDbContext db)
         {
             _db = db;
-            Categoria = new CategoriaRepositorio(_db);
+            Categoria = new CategoriaRepository(_db);
+            Articulo = new ArticuloRepository(_db);
         }
 
         public ICategoriaRepository Categoria { get; private set; }
+        public IArticuloRepository Articulo { get; private set; }
         public void Dispose()
         {
             _db.Dispose();
