@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\47943677-16b4-4b41-bcc6-92fd3366b6ca.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\47943677-16b4-4b41-bcc6-92fd3366b6ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\52e7c6c4-558d-4800-8bee-7dc5380ebb9a.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\52e7c6c4-558d-4800-8bee-7dc5380ebb9a.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "PackagePath": "staticwebassets\\js\\articulo.js"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },

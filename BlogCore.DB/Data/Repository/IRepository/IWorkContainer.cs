@@ -9,6 +9,7 @@ namespace BlogCore.DB.Data.Repository.IRepository
     public interface IWorkContainer : IDisposable
     {
         ICategoriaRepository Categoria { get; }
+        IArticuloRepository Articulo { get; }
         void Save();
     }
 }
