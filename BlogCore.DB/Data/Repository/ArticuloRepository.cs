@@ -25,6 +25,7 @@ namespace BlogCore.DB.Data.Repository
             dbObject.Descripcion = articulo.Descripcion;
             dbObject.UrlImagen = articulo.UrlImagen;
             dbObject.CategoriaId = articulo.CategoriaId;
+            _db.SaveChanges();
         }
     }
 }

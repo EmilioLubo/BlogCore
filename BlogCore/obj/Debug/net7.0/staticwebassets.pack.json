@@ -21,6 +21,22 @@
       "PackagePath": "staticwebassets\\imagenes\\articulos\\52e7c6c4-558d-4800-8bee-7dc5380ebb9a.png"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\noimage.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\2b52e48f-b882-465b-b4ba-e579d4c98fbb.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\2b52e48f-b882-465b-b4ba-e579d4c98fbb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\f37936a3-40ff-4c80-8e79-9764d9b36c45.png",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\f37936a3-40ff-4c80-8e79-9764d9b36c45.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\noimage.png",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\noimage.png"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
       "PackagePath": "staticwebassets\\js\\articulo.js"
     },
@@ -31,6 +47,10 @@
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",
