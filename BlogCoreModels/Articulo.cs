@@ -15,7 +15,7 @@ namespace BlogCoreModels
         [Required(ErrorMessage = "Ingrese un nombre para el Artículo")]
         [Display(Name = "Nombre Artículo")]
         public string Nombre { get; set; }
-        [Required(ErrorMessage = "Ingrese un nombre para el Artículo")]
+        [Required(ErrorMessage = "Ingrese una descripción para el Artículo")]
         public string Descripcion { get; set; }
         [Display(Name = "Fecha de creación")]
         public string FechaCreacion { get; set; }

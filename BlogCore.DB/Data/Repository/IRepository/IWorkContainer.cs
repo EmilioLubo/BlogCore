@@ -10,6 +10,7 @@ namespace BlogCore.DB.Data.Repository.IRepository
     {
         ICategoriaRepository Categoria { get; }
         IArticuloRepository Articulo { get; }
+        ISliderRepository Slider { get; }
         void Save();
     }
 }
