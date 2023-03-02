@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4up0soWLILrkZMCxL6J/I1Qr7z0B8kML9nlzmh9x1wQ=",
+  "Hash": "ctRvpGt5n0NggugA8HSNPR7JY6b6dS2EjURa1UCAuJk=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1171,6 +1171,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\2b52e48f-b882-465b-b4ba-e579d4c98fbb.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8db8cc23-67ab-4600-b8fc-7a1cf6a9c587.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/8db8cc23-67ab-4600-b8fc-7a1cf6a9c587.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\8db8cc23-67ab-4600-b8fc-7a1cf6a9c587.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\a0bc45f7-19d7-4ccb-827a-1cd34f5f85c0.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/a0bc45f7-19d7-4ccb-827a-1cd34f5f85c0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\a0bc45f7-19d7-4ccb-827a-1cd34f5f85c0.jpg"
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\f37936a3-40ff-4c80-8e79-9764d9b36c45.png",
