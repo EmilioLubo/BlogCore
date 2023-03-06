@@ -1,4 +1,5 @@
 using BlogCore.Data;
+using BlogCore.DB.Data.Inicializador;
 using BlogCore.DB.Data.Repository;
 using BlogCore.DB.Data.Repository.IRepository;
 using BlogCoreModels;
@@ -20,6 +21,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IWorkContainer, WorkContainer>();
 
+builder.Services.AddScoped<IInicializador, Inicializador>();
+
 WebApplication app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -33,6 +36,8 @@ else
 }
 app.UseStaticFiles();
 
+DataSeeding();
+
 app.UseRouting();
 
 app.UseAuthorization();
@@ -43,3 +48,13 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
+
+
+void DataSeeding() 
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var inicializador = scope.ServiceProvider.GetService<IInicializador>();
+        inicializador.Inicializar();
+    }
+};
