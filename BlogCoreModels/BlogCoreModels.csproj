@@ -9,6 +9,9 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="7.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="7.0.3" />
+    <PackageReference Include="Verve.Identity.Core.Service" Version="1.20210816.2" />
   </ItemGroup>
 
 </Project>

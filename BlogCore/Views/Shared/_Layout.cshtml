@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using BlogCoreUtilities;
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -23,15 +24,18 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarColor01">
                     <ul class="navbar-nav me-auto">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle text-white" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Contenidos</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Categorias" asp-action="Index">Categorías</a>
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Articulos" asp-action="Index">Artículos</a>
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Sliders" asp-action="Index">Sliders</a>
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
-                            </div>
-                        </li>
+                        @if (User.IsInRole(CNT.Admin))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-white" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Contenidos</a>
+                                <div class="dropdown-menu bg-primary">
+                                    <a class="dropdown-item text-white" asp-area="Admin" asp-controller="Categorias" asp-action="Index">Categorías</a>
+                                    <a class="dropdown-item text-white" asp-area="Admin" asp-controller="Articulos" asp-action="Index">Artículos</a>
+                                    <a class="dropdown-item text-white" asp-area="Admin" asp-controller="Sliders" asp-action="Index">Sliders</a>
+                                    <a class="dropdown-item text-white" asp-area="Admin" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
+                                </div>
+                            </li>
+                        }
                     </ul>
                 </div>
                 <partial name="_LoginPartial" />
