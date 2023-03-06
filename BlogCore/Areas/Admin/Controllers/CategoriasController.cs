@@ -1,10 +1,12 @@
 ﻿using BlogCore.Data;
 using BlogCore.DB.Data.Repository.IRepository;
 using BlogCoreModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlogCore.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Area("Admin")]
     public class CategoriasController : Controller
     {

@@ -1,10 +1,13 @@
 ﻿using BlogCore.Data;
 using BlogCore.DB.Data.Repository.IRepository;
 using BlogCoreModels.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 
 namespace BlogCore.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Area("Admin")]
     public class ArticulosController : Controller
     {
