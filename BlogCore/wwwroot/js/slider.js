@@ -25,6 +25,13 @@ function cargarDatatable() {
                 "width": "20%"
             },
             {
+                "data": "urlImagen",
+                "render": function (imagen) {
+                    return `<img src="../${imagen}" alt="Imágen de slider" width="150" />`
+                },
+
+            },
+            {
                 "data": "id",
                 "render": function (data) {
                     return `<div class="text-center">
