@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\bin\Release\net7.0\BlogCoreModels.deps.json
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\bin\Release\net7.0\BlogCoreModels.dll
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\bin\Release\net7.0\BlogCoreModels.pdb
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.dll
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\refint\BlogCoreModels.dll
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\BlogCoreModels.pdb
+C:\Users\Usuario\source\repos\BlogCore\BlogCoreModels\obj\Release\net7.0\ref\BlogCoreModels.dll
